@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sisyphus.Host.Console", "src\Sisyphus.Host.Console\Sisyphus.Host.Console.csproj", "{3A800C0B-3522-43AD-BE75-D12BF5E43127}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sisyphus.Host.Topshelf", "src\Sisyphus.Host.Topshelf\Sisyphus.Host.Topshelf.csproj", "{3A800C0B-3522-43AD-BE75-D12BF5E43127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
